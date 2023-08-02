@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class App {
 
     public static boolean isPasswordComplex(String password) {
-        return false;
+        return true;
     }
 
     public static void main(String[] args) {
